@@ -1,0 +1,20 @@
+{
+    "fluentMethods": true,
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "description",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "isComplete",
+            "fieldType": "Boolean"
+        }
+    ],
+    "dto": "no",
+    "service": "no",
+    "entityTableName": "todo",
+    "pagination": "no",
+    "microserviceName": "todo",
+    "searchEngine": false
+}

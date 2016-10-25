@@ -1,0 +1,14 @@
+{
+  "generator-jhipster": {
+    "appsFolders": [
+      "gateway",
+      "todo"
+    ],
+    "directoryPath": "./",
+    "clusteredDbApps": [],
+    "useElk": false,
+    "serviceDiscoveryType": "eureka",
+    "adminPassword": "admin",
+    "jwtSecretKey": "3a57edd09a70cffd3eeaabef2dd83b54ed30bc16"
+  }
+}
